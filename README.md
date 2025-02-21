@@ -13,7 +13,7 @@
 
 - **Backend:** Laravel (PHP)
 - **Frontend:** Vue.js
-- **Banco de Dados:** MySQL / SQLite
+- **Banco de Dados:** MySQL
 - **Estilização:** Bootstrap
 
 ---
